@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is DCC1-9B80
+
+ Directory of D:\Offical Documents\Jenkins\GITPROJECT
+
+04/05/2017  12:50 AM    <DIR>          .
+04/05/2017  12:50 AM    <DIR>          ..
+04/05/2017  12:50 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  310,003,998,720 bytes free
